@@ -11,6 +11,7 @@ body{
 
 #profilePic{
     
+    margin-top: -40px;
     zoom:0.75;
     border-radius: 50% ;
     border: 5px solid lavender;
@@ -69,4 +70,13 @@ body{
     text-shadow: 
     0 -1.2em #f5dcc4, 
     0 0 grey;
+}
+
+#colorChangeButton {
+    font-family: 'Courier New', Courier, monospace;
+    width: 15%;
+    top: 120px;
+    position: relative;
+    right: 330px;
+
 }
